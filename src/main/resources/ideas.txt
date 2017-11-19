@@ -1,0 +1,30 @@
+Rankup
+Ranks
+A-Z
+
+
+Donor Ranks
+Iron
+Gold
+Diamond
+Emerald
+
+
+Kits
+starter kit
+1 wood pickaxe
+&fStarter Pickaxe
+
+Player data
+uuid
+name
+rank
+balance
+statistics
+
+Scoreboard
+
+ranks
+b
+ cost: 2000
+ prefix: &aB

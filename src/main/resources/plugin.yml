@@ -1,0 +1,5 @@
+name: MePrison
+version: ${project.version}
+main: me.matthewe.meprison.MePrison
+authors: [matt11matthew]
+description: MePrison

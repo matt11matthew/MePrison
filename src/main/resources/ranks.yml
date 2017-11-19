@@ -1,0 +1,79 @@
+ranks:
+  a:
+    tag: "7[&aA&7] &f"
+    cost: -1
+  b:
+    tag: "7[&aB&7] &f"
+    cost: 4000
+  c:
+    tag: "7[&aC&7] &f"
+    cost: 6000
+  d:
+    tag: "7[&aD&7] &f"
+    cost: 8000
+  e:
+    tag: "7[&aE&7] &f"
+    cost: 10000
+  f:
+    tag: "7[&aF&7] &f"
+    cost: 12000
+  g:
+    tag: "7[&aG&7] &f"
+    cost: 14000
+  h:
+    tag: "7[&aH&7] &f"
+    cost: 16000
+  i:
+    tag: "7[&aI&7] &f"
+    cost: 18000
+  j:
+    tag: "7[&aJ&7] &f"
+    cost: 20000
+  k:
+    tag: "7[&aK&7] &f"
+    cost: 22000
+  l:
+    tag: "7[&aL&7] &f"
+    cost: 24000
+  m:
+    tag: "7[&aM&7] &f"
+    cost: 26000
+  n:
+    tag: "7[&aN&7] &f"
+    cost: 28000
+  o:
+    tag: "7[&aO&7] &f"
+    cost: 30000
+  p:
+    tag: "7[&aP&7] &f"
+    cost: 32000
+  q:
+    tag: "7[&aQ&7] &f"
+    cost: 34000
+  r:
+    tag: "7[&aR&7] &f"
+    cost: 36000
+  s:
+    tag: "7[&aS&7] &f"
+    cost: 38000
+  t:
+    tag: "7[&aT&7] &f"
+    cost: 40000
+  u:
+    tag: "7[&aU&7] &f"
+    cost: 42000
+  v:
+    tag: "7[&aV&7] &f"
+    cost: 44000
+  w:
+    tag: "7[&aW&7] &f"
+    cost: 46000
+  x:
+    tag: "7[&aX&7] &f"
+    cost: 48000
+  y:
+    tag: "7[&aY&7] &f"
+    cost: 50000
+  z:
+    tag: "7[&aZ&7] &f"
+    cost: 52000
