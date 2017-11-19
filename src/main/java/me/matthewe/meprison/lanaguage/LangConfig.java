@@ -26,7 +26,7 @@ public class LangConfig extends Config {
 
     @Override
     public void init() {
-//        super.init();
+        super.init();
         try {
             for (Field field : this.getClass().getFields()) {
                 boolean isIgnore = false;
